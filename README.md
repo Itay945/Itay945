@@ -2,7 +2,6 @@
 My name is Itay. i am a web developer 
 
 - 🔭 I’m currently working on a PTSD Prevention App bishvilenu private repository [bishvilenu](https://www.bishvilenu.com/).
-- 🌱 I’m currently learning Next.js and deeper React.js usage!
 - 👯 I’m looking to collaborate on new projects!
 - 📫 reach me on: itaybenadon1@gmail.com
 
